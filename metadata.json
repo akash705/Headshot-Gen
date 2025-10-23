@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Photographer",
+  "description": "An AI-powered app to transform casual selfies into professional headshots using Gemini 2.5 Flash Image. Users can select styles and apply additional text-based edits.",
+  "requestFramePermissions": []
+}
